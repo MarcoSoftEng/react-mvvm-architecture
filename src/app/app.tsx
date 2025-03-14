@@ -1,5 +1,5 @@
-import { Landing } from '@src/modules/landing'
+import { Providers } from './providers'
 
 export function App() {
-	return <Landing />
+	return <Providers />
 }
