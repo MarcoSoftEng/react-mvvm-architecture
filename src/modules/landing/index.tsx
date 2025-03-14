@@ -1,3 +1,3 @@
 export function Landing() {
-	return <div>Landing Page</div>
+	return <div className='text-red-500'>Landing Page</div>
 }
